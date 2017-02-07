@@ -1,0 +1,26 @@
+position 100 100
+define tree
+  define leftPart
+    line -5 0
+    line 0 -20
+    line -20 0
+    line 20 -20
+    line -15 0
+    line 15 -15
+    line -10 0
+    line 15 -10
+  end
+  define rightPart
+    line 15 10
+    line -10 0
+    line 15 15
+    line -15 0
+    line 20 20
+    line -20 0
+    line 0 20
+    line -5 0
+  end
+  leftPart
+  rightPart
+end
+tree

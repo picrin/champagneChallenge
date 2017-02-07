@@ -1,0 +1,28 @@
+position 200 200
+define tree
+  define leftBranch a b
+    line -a 0
+    line b -a
+  end
+  define rightBranch a b
+    line b a
+    line -a 0
+  end
+  define bottom
+    line 0 10
+    line -10 0
+    line 0 -10
+  end
+  leftBranch 30 30
+  leftBranch 25 25
+  leftBranch 20 20
+  leftBranch 15 15
+  leftBranch 10 15
+  rightBranch 10 15
+  rightBranch 15 15
+  rightBranch 20 20 
+  rightBranch 25 25
+  rightBranch 30 30
+  bottom
+end
+tree
