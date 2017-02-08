@@ -11,13 +11,15 @@ The challenge is to build into your lab 13 solution support for:
 If your solution supports 3 visible test cases without cheating:
 - [1\_euphoria](/champagne_1_euphoria.txt)
 - [2\_excitement](champagne_2_excitement.txt)
-- [3\_confusion](champagne_3_confusion.txt) you should be all right.
+- [3\_confusion](champagne_3_confusion.txt)
+you should be all right.
 
 You can compare your output with output provided:
 - [1\_euphoria](/euphoria.png)
 - [2\_excitement](/excitement.png)
 - [3\_confusion](/confusion.png)
 
+Your solution will be marged against 3 invisible test cases.
 
 # Winner
-winner will be decided on Tuesday 14th of February in the lab. Good luck!
+The winner will be decided on Tuesday 14th of February in the lab. Good luck!
